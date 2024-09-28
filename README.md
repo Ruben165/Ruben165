@@ -33,14 +33,14 @@ Here's the list of my certifications:
 - and many more.
 
 ## Skills and Abilities
-Programming Language: Python, C++, Java, HTML, CSS, and JavaScript
-Framework: Laravel, Qt
-Cloud Platform: AWS
-Tools: Git, Docker
+Programming Language: Python, C++, Java, HTML, CSS, and JavaScript <br>
+Framework: Laravel, Qt <br>
+Cloud Platform: AWS <br>
+Tools: Git, Docker <br>
 Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Decision Making
 
 ## Contact Me
-Linkedin: https://www.linkedin.com/in/lie-reubensto
+Linkedin: https://www.linkedin.com/in/lie-reubensto <br>
 Email: liereubensto@gmail.com
 
 ## Resume
