@@ -44,7 +44,7 @@ Linkedin: https://www.linkedin.com/in/lie-reubensto <br>
 Email: liereubensto@gmail.com
 
 ## Resume
-You can check out my CV here: 
+You can check out my CV here: https://drive.google.com/file/d/1qjELwDcroh8Ic2_ywbRHAE1jIqd4LfDB/view?usp=sharing
 
 <!--
 **Ruben165/Ruben165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
