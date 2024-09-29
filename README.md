@@ -22,14 +22,15 @@ Relevant Courses include:
 - Software Engineering
 - Algorithm Design & Analysis
 
-## Experience 
+## Experience & Projects
 I've worked on both personal and academic projects. You can see what I've worked on in my other repositories.
 
 ## Certification
 Here's the list of my certifications:
-- AWS Certified Solutions Architect - Associate
-- AWS Certified Cloud Practitioner
-- NVIDIA Fundamentals of Deep Learning
+- AWS Certified Solutions Architect - Associate (Issued: August 2024, Expires: August 2027)
+- AWS Certified Cloud Practitioner (Issued: August 2024, Expires: August 2027)
+- NVIDIA Fundamentals of Deep Learning (Issued: November 2023)
+- Esri Training MOOC "Imagery in Action" (Issued: October 2023)
 - and many more.
 
 ## Skills and Abilities
