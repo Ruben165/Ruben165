@@ -42,7 +42,7 @@ Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Dec
 
 ## Contact Me
 Linkedin: https://www.linkedin.com/in/lie-reubensto <br>
-Email: liereubensto@gmail.com
+Email: lie.reubensto@binus.ac.id
 
 ## Resume
 You can check out my CV here: https://drive.google.com/file/d/1qjELwDcroh8Ic2_ywbRHAE1jIqd4LfDB/view?usp=sharing
