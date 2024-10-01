@@ -2,7 +2,7 @@
 
 Welcome!
 
-My full name is Lie Reubensto.
+My name is Lie Reubensto.
 Everyone usually call me Ruben, though.
 
 ## About Me
