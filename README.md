@@ -36,8 +36,6 @@ Here's the list of my certifications:
 ## Skills and Abilities
 Programming Language: Python, C++, Java, HTML, CSS, and JavaScript <br>
 Framework: Laravel, Qt <br>
-Cloud Platform: AWS <br>
-Tools: Git, Docker <br>
 Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Decision Making
 
 ## Contact Me
