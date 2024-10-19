@@ -31,7 +31,6 @@ Here's the list of my certifications:
 - AWS Certified Cloud Practitioner (Issued: August 2024, Expires: August 2027)
 - NVIDIA Fundamentals of Deep Learning (Issued: November 2023)
 - Esri Training MOOC "Imagery in Action" (Issued: October 2023)
-- and many more.
 
 ## Skills and Abilities
 Programming Language: Python, C++, Java, SQL, HTML, CSS, and JavaScript <br>
