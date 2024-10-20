@@ -6,7 +6,7 @@ My name is Lie Reubensto.
 Everyone usually call me Ruben, though.
 
 ## About Me
-I'm currently a Computer Science & Mathematics Undergraduate Student from BINUS University. My passion lies in problem-solving through Applied Mathematics Modeling, particularly Optimization Models. Throughout my academic career, I developed a strong foundation in mathematical principles and computational techniques, which I have applied in some of my projects to solve complex problems. I also have gained hands-on experience in programming languages, such as Python, C++, and Java. With the help of these programming languages, I'm able to do the mathematical modeling computationally, making it faster and more accurate than the standard/manual method.
+I'm currently a Computer Science & Mathematics Undergraduate Student from BINUS University. My passion lies in problem-solving through Applied Mathematics Modeling, particularly Optimization Models. Throughout my academic career, I developed a strong foundation in mathematical principles and computational techniques, which I have applied in some of my projects to solve complex problems. I also have gained hands-on experience in programming languages, such as Python, C++, and Java. With the help of these programming languages, I'm able to do the mathematical modeling computationally, making it faster and more accurate for real-time decision making.
 
 My interest lies in leveraging optimization models to improve decision making processes in a real-world case, like resource allocation optimization or maximize beneficial factors. I'm eager to further explore these areas and contribute to innovative and efficient solutions through mathematical and optimization techniques.
 
