@@ -22,17 +22,17 @@ Relevant Courses include:
 - Software Engineering
 - Algorithm Design & Analysis
 
-## Experience & Projects
-I've worked on both personal and academic projects. You can see what I've worked on in my other repositories.
+## Projects
+I've worked on both personal and group projects. You can see what I've worked on in my other repositories.
 
-## Certification
+## Certifications
 Here's the list of my certifications:
 - AWS Certified Solutions Architect - Associate (Issued: August 2024, Expires: August 2027)
 - AWS Certified Cloud Practitioner (Issued: August 2024, Expires: August 2027)
 - NVIDIA Fundamentals of Deep Learning (Issued: November 2023)
 - Esri Training MOOC "Imagery in Action" (Issued: October 2023)
 
-## Skills and Abilities
+## Skills
 Programming Language: Python, C++, Java, SQL, HTML, CSS, and JavaScript <br>
 Framework: Laravel, Qt <br>
 Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Decision Making
@@ -41,7 +41,7 @@ Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Dec
 Linkedin: https://www.linkedin.com/in/lie-reubensto <br>
 Email: lie.reubensto@binus.ac.id
 
-## Resume
+## CV
 You can check out my CV here: https://drive.google.com/file/d/1YjrOJIW2X_e3wauT6HwcRYTmqCyMPqQj/view?usp=sharing
 
 <!--
