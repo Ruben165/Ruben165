@@ -10,7 +10,7 @@ I'm currently a Computer Science & Mathematics Undergraduate Student from BINUS 
 
 My interest lies in leveraging optimization models to improve decision making processes in a real-world case, like resource allocation optimization or maximize beneficial factors. I'm eager to further explore these areas and contribute to innovative and efficient solutions through mathematical and optimization techniques.
 
-I'm continously expanding my skills in other areas as well, such as Web Programming with HTML, CSS, and JavaScript, among many others. My ultimate goal is to contribute for solutions that can be utilize by many, mainly through Desktop or Web Application. I'm eager to take on new challenges, collaborate with others in the field, and continue expanding my knowledge. I'm also thrilled to apply what I've learnt for both professional and academic settings.
+I'm continously expanding my skills in other areas as well, such as Web Programming (with HTML, CSS, and JavaScript) and Machine Learning, among many others. My ultimate goal is to contribute for solutions that can be utilize by many, mainly through Desktop or Web Application. I'm eager to take on new challenges, collaborate with others in the field, and continue expanding my knowledge. I'm also thrilled to apply what I've learnt for both professional and academic settings.
 
 ## Education
 I'm currently an undergraduate student from BINUS University, majoring in Computer Science & Mathematics. The estimated graduation time for me is around September of 2025. 
