@@ -18,9 +18,9 @@ Relevant Courses include:
 - Applied Mathematics Modeling
 - Machine Learning
 - Deep Learning and Optimization
-- Web Programming
-- Software Engineering
 - Algorithm Design & Analysis
+- Big Data Infrastructure & Technology
+- Web Programming
 
 ## Projects
 I've worked on both personal and group projects. You can see what I've worked on in my other repositories.
