@@ -42,7 +42,7 @@ Linkedin: https://www.linkedin.com/in/lie-reubensto <br>
 Email: lie.reubensto@binus.ac.id
 
 ## CV
-You can check out my CV here: https://drive.google.com/file/d/1YjrOJIW2X_e3wauT6HwcRYTmqCyMPqQj/view?usp=sharing
+You can check my CV here: https://drive.google.com/file/d/1X56Ho-oL6Qz9M5iW0l5P-HW0wZ0sEWSE/view?usp=sharing
 
 <!--
 **Ruben165/Ruben165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
