@@ -1,19 +1,17 @@
 ## Hi there 👋
 
 Welcome!
-
-My name is Lie Reubensto.
-Everyone usually call me Ruben, though.
+My name is Lie Reubensto (Ruben)
 
 ## About Me
-I'm currently a Computer Science & Mathematics Undergraduate Student from BINUS University. My passion lies in problem-solving through Applied Mathematics Modeling, particularly Optimization Models. Throughout my academic career, I developed a strong foundation in mathematical principles and computational techniques, which I have applied in some of my projects to solve complex problems. I also have gained hands-on experience in programming languages, such as Python, C++, and Java. With the help of these programming languages, I'm able to do the mathematical modeling computationally, making it faster and more accurate for real-time decision making.
+I'm a Final-Year Computer Science & Mathematics Undergraduate Student from BINUS University. My passion lies in problem-solving through Applied Mathematics Modeling. Throughout my academic career, I developed a strong foundation in mathematical principles and computational techniques, which I have applied in some of my projects to solve complex problems. I also have gained hands-on experience in programming languages, such as Python, C++, and Java. With the help of these programming languages, I'm able to do the mathematical modeling computationally, making it faster and more accurate for real-time decision making.
 
-My interest lies in leveraging optimization models to improve decision making processes in a real-world case, like resource allocation optimization or maximize beneficial factors. I'm eager to further explore these areas and contribute to innovative and efficient solutions through mathematical and optimization techniques.
+My interest lies in leveraging optimization techniques to improve decision making processes in a real-world case. I'm eager to further explore these areas and contribute to innovative and efficient solutions.
 
 I'm continously expanding my skills in other areas as well, such as Web Programming (with HTML, CSS, and JavaScript) and Machine Learning, among many others. My ultimate goal is to contribute for solutions that can be utilize by many, mainly through Desktop or Web Application. I'm eager to take on new challenges, collaborate with others in the field, and continue expanding my knowledge. I'm also thrilled to apply what I've learnt for both professional and academic settings.
 
 ## Education
-I'm currently an undergraduate student from BINUS University, majoring in Computer Science & Mathematics. The estimated graduation time for me is around September of 2025. 
+I'm currently an undergraduate student from BINUS University, majoring in Computer Science & Mathematics. 
 Relevant Courses include:
 - Applied Mathematics Modeling
 - Machine Learning
@@ -33,8 +31,8 @@ Here's the list of my certifications:
 - Esri Training MOOC "Imagery in Action" (Issued: October 2023)
 
 ## Skills
-Programming Language: Python, C++, Java, SQL, HTML, CSS, and JavaScript <br>
-Framework: Laravel, Qt <br>
+Programming Language: Python, C++, Java, SQL, HTML, CSS, React, and JavaScript <br>
+Framework: Laravel, Qt, Flask <br>
 Soft Skill: Time Management, Attention to Detail, Teamwork, Problem Solving, Decision Making
 
 ## Contact Me
@@ -43,18 +41,3 @@ Email: lie.reubensto@binus.ac.id
 
 ## CV
 You can check my CV here: https://drive.google.com/file/d/1X56Ho-oL6Qz9M5iW0l5P-HW0wZ0sEWSE/view?usp=sharing
-
-<!--
-**Ruben165/Ruben165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
